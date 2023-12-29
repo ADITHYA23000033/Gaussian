@@ -20,9 +20,7 @@ Step4: end the program
 ## Program:
 ```
 #Program to find the solution of a matrix using Gaussian Elimination.
-
 #Developed by: ADITHYA V
-
 #RegisterNumber: 23000033
 
 import numpy as np
